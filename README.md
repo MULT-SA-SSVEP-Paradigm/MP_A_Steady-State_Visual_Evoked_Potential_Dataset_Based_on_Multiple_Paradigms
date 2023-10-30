@@ -1,9 +1,9 @@
 # A-SSVEP-Paradgim-Dataset-Based-on-Multiple-Sizes-and-Arrangements
-A Steady-State Visual Evoked Potential Paradigm Dataset Based on Multiple Stimulus Sizes and Arrangements
-# Introduction
+
+## Introduction
 The dataset contains 9-channel EEG signals from the occipital region of 24 subjects (6 females, 22 subjects aged 19-22 years, 2 subjects aged 54 and 46 respecitvely) under 5 stimulation paradigms with different stimulus sizes and arrangements, with a total of 120 MATLAB files. Stimuli were encoded using the joint frequency and phase modulation (JFPM) method. The stimulation frequencies ranged from 8 Hz to 13.5 Hz at intervals of 0.5 Hz. The stimulation phaes ranged from 0 Hz to 3.85pi at intervals of 0.35pi. 
 Filter bank canonical correlation analysis (FBCCA) and task-related component analysis (TRCA) methods confirmed its suitability for studying stimulus size and arrangement effects in BCI systems.
-# The distribution includes
+## The distribution includes
 * EEG data/Paradigm1 : EEG data from 24 subjects under the paradigm 1 experiment  
 * EEG data/Paradigm2 : EEG data from 24 subjects under the paradigm 2 experiment
 * EEG data/Paradigm3 : EEG data from 24 subjects under the paradigm 3 experiment
@@ -19,7 +19,7 @@ Filter bank canonical correlation analysis (FBCCA) and task-related component an
 * TRCA/filterbank.m : Designing a filter bank
 * TRCA/itr.m : Calculating information transfer rate (ITR)
 
-# Dataset
+## Dataset
 * Subjects number : 24
 * Paradigm number : 5
 * MATLAB files number : 120
@@ -31,7 +31,7 @@ Filter bank canonical correlation analysis (FBCCA) and task-related component an
 * Number of recording blocks : 8
 * Length of an epoch : 4 s
 Sampling rate : 250 Hz
-# Reference
+## Reference
 1. M. Nakanishi, Y. Wang, X. Chen, Y. -T. Wang, X. Gao, and T.-P. Jung, "Enhancing detection of SSVEPs for a high-speed brain speller using task-related component analysis", IEEE Trans. Biomed. Eng, 65(1): 104-112, 2018. http://ieeexplore.ieee.org/document/7904641/
 2. X. Chen, Y. Wang, M. Nakanishi, X. Gao, T. -P. Jung, S. Gao, "High-speed spelling with a non-invasive brain-computer interface", Proc. Natl. Acad. Sci. U.S.A, 112(44): E6058-E6067, 2015. http://www.pnas.org/content/early/2015/10/14/1508080112.abstract
 3. https://github.com/mnakanishi/TRCA-SSVEP/tree/master
