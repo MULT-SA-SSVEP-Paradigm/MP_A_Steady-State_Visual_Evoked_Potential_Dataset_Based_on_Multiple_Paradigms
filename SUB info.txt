@@ -1,0 +1,27 @@
+			
+Subject Index	Gender	 Age	Group
+			
+      1	         Male	 22  experienced
+      2    	 Male	 22  experienced
+      3	         Male	 56	naive
+      4	        Female	 54	naive
+      5	        Female	 22	naive
+      6	         Male	 22	naive
+      7	         Male	 23	naive
+      8	         Male	 20	naive
+      9	         Male	 20	naive
+     10	        Female	 20	naive
+     11	        Female	 20	naive
+     12	        Female	 20	naive
+     13	        Female	 20	naive
+     14	         Male	 24	naive
+     15	         Male	 21	naive
+     16	         Male	 20	naive
+     17	         Male	 22	naive
+     18	         Male	 22	naive
+     19	        Female	 19	naive
+     20	         Male	 20	naive
+     21	         Male	 21	naive
+     22	         Male	 21	naive
+     23        	 Male	 21	naive
+     24	         Male	 21	naive
