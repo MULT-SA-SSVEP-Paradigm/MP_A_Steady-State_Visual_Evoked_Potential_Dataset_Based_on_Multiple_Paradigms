@@ -1,4 +1,4 @@
-# A SSVEP Paradgim Dataset Based on Multiple Sizes and Arrangements
+# MP:A Steady-State Visual Evoked Potential Dataset Based on Multiple Paradigm
 
 ## Introduction
 The dataset contains 9-channel EEG signals from the occipital region of 24 subjects (6 females, 22 subjects aged 19-22 years, 2 subjects aged 54 and 46 respecitvely) under 5 stimulation paradigms with different stimulus sizes and arrangements, with a total of 120 MATLAB files. Stimuli were encoded using the joint frequency and phase modulation (JFPM) method. The stimulation frequencies ranged from 8 Hz to 13.5 Hz at intervals of 0.5 Hz. The stimulation phaes ranged from 0 Hz to 3.85pi at intervals of 0.35pi. 
